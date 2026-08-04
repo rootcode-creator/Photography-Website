@@ -70,7 +70,7 @@ Photography-Website/
 | Social media icons | ✅ Current | Facebook, Twitter, Instagram, and YouTube icons appear in the sidebar footer area. |
 | Responsive viewport setup | ✅ Current | The page includes the standard mobile viewport meta tag. |
 
-### Flow diagram
+### 🌊 Flow diagram
 
 The Mermaid flow below shows the main interaction path for the page, from loading the landing screen through opening the sidebar and selecting menu actions.
 
